@@ -54,7 +54,7 @@ const checkJWT = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
   const { _id, email, role, name } = user;
 
   return res.status(200).json({
-    token: JWT.singToken(_id, email),
+    token: JWT.signToken(_id, email),
     user: {
       email,
       role,
