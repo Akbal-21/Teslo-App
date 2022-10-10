@@ -1,0 +1,15 @@
+{
+  "pretty-formatter.preserve": 1,
+  "pretty-formatter.quoteConvert": "single",
+  "pretty-formatter.bracePadding": true,
+  "pretty-formatter.variableList": "list",
+  "pretty-formatter.vertical": true,
+  "pretty-formatter.endComma": "always",
+  "pretty-formatter.braceStyle": "collapse-preserve-inline",
+  "pretty-formatter.correct": false,
+  "pretty-formatter.elseLine": true,
+  "pretty-formatter.commentLine": true,
+  "pretty-formatter.comments": true,
+  "pretty-formatter.compressedCss": true,
+  "pretty-formatter.cssInsertLines": true
+}
